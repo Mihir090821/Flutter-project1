@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
         // you want
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Mihir  Counter Home Page'),
+      home: MyHomePage(title: 'Mihir 123 Counter Home Page'),
     );
   }
 }
